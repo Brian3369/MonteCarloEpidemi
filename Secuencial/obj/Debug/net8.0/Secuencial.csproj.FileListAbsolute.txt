@@ -1,0 +1,15 @@
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Secuencial\bin\Debug\net8.0\Secuencial.exe
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Secuencial\bin\Debug\net8.0\Secuencial.deps.json
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Secuencial\bin\Debug\net8.0\Secuencial.runtimeconfig.json
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Secuencial\bin\Debug\net8.0\Secuencial.dll
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Secuencial\bin\Debug\net8.0\Secuencial.pdb
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Secuencial\obj\Debug\net8.0\Secuencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Secuencial\obj\Debug\net8.0\Secuencial.AssemblyInfoInputs.cache
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Secuencial\obj\Debug\net8.0\Secuencial.AssemblyInfo.cs
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Secuencial\obj\Debug\net8.0\Secuencial.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Secuencial\obj\Debug\net8.0\Secuencial.sourcelink.json
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Secuencial\obj\Debug\net8.0\Secuencial.dll
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Secuencial\obj\Debug\net8.0\refint\Secuencial.dll
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Secuencial\obj\Debug\net8.0\Secuencial.pdb
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Secuencial\obj\Debug\net8.0\Secuencial.genruntimeconfig.cache
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Secuencial\obj\Debug\net8.0\ref\Secuencial.dll

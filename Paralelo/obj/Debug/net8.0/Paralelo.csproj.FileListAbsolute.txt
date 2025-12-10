@@ -1,0 +1,14 @@
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Paralelo\bin\Debug\net8.0\Paralelo.exe
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Paralelo\bin\Debug\net8.0\Paralelo.deps.json
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Paralelo\bin\Debug\net8.0\Paralelo.runtimeconfig.json
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Paralelo\bin\Debug\net8.0\Paralelo.dll
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Paralelo\bin\Debug\net8.0\Paralelo.pdb
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Paralelo\obj\Debug\net8.0\Paralelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Paralelo\obj\Debug\net8.0\Paralelo.AssemblyInfoInputs.cache
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Paralelo\obj\Debug\net8.0\Paralelo.AssemblyInfo.cs
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Paralelo\obj\Debug\net8.0\Paralelo.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Paralelo\obj\Debug\net8.0\Paralelo.dll
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Paralelo\obj\Debug\net8.0\refint\Paralelo.dll
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Paralelo\obj\Debug\net8.0\Paralelo.pdb
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Paralelo\obj\Debug\net8.0\Paralelo.genruntimeconfig.cache
+C:\Users\Brian\Desktop\MonteCarloEpidemi\Paralelo\obj\Debug\net8.0\ref\Paralelo.dll
